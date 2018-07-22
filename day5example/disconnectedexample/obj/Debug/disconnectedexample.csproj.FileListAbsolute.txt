@@ -1,0 +1,9 @@
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\bin\Debug\disconnectedexample.exe.config
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\bin\Debug\disconnectedexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\bin\Debug\disconnectedexample.pdb
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.csprojResolveAssemblyReference.cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.Form1.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.Properties.Resources.resources
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.csproj.GenerateResource.Cache
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.exe
+c:\users\nexwave\documents\visual studio 2015\Projects\day5example\disconnectedexample\obj\Debug\disconnectedexample.pdb
